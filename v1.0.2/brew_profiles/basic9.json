@@ -1,0 +1,10 @@
+{
+"profile_name": "Basic 9 Bar",
+"control_variable": "pressure",
+"total_duration_ms": 30000,
+"time_step_ms": 100,
+"target_temp_c": 93.0,
+"profile_points": [
+        [30000, 9.0, "hold"]
+]
+}
